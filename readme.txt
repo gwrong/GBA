@@ -1,6 +1,8 @@
 Graham Wright
 Homework 9
 
+Run in Ubuntu with GBA programming tools
+
 Shameless Flappy Bird Clone 2.0
 
 You are a bird traveling through a sky full of solid rectangles and you want to fly for as long as possible.
